@@ -1,0 +1,10 @@
+.strip {
+    min-height: 40vh;
+    background-image: url(https://www.un.org/sites/un2.un.org/files/field/image/covid-19-variants.jpg);
+    background-size: cover;
+    background-position-x: 300px;
+}
+
+.box {
+    min-height: 110px;
+}
